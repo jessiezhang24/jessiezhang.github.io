@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jessie_Zhang",
-    "section": "",
-    "text": "Welcome to my website!\nHello Everyone! My name is Jessie Zhang, a current MDS student at University of Brish Columbia."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jessie_Zhang",
+    "section": "",
+    "text": "Welcome to my website!\nHello Everyone! My name is Jessie Zhang, a current MDS student at University of Brish Columbia."
   }
 ]
