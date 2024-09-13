@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Jiaxin Zhang (Jessie)",
     "section": "",
-    "text": "About this site"
+    "text": "Hello everyone! My name is Jiaxin Zhang (Jessie), and I’m currently pursuing a Master of Data Science at the University of British Columbia. With both a strong foundation and hands-on experience in business analytics area, I’ve developed a deep passion for using data to drive impactful decisions. Throughout my career, I’ve worked extensively with tools such as Python, R, and SQL to transform raw data into actionable insights, helping businesses optimize their processes and develop data-driven strategies.\nMy enthusiasm for technology extends far beyond analytics—I’m fascinated by how emerging technologies can solve complex problems, and I’m always eager to learn and explore new advancements in the field. Whether through data analysis, machine learning, or innovative tech solutions, I’m excited to continue applying my skills to make a meaningful impact in the world of tech."
   },
   {
     "objectID": "talks.html",
@@ -16,8 +16,57 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Jessie_Zhang",
+    "title": "Welcome to My Website!",
     "section": "",
-    "text": "Welcome to my website!\nHello Everyone! My name is Jessie Zhang, a current MDS student at University of Brish Columbia."
+    "text": "I am rooted, but I flow.\n\n\n                                               – Virginia Woolf\n\nHi there! I’m Jessie Zhang, a passionate business analyst with a focus on turning data into actionable insights.\nFeel free to learn more about me or view my past projects."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Jiaxin Zhang (Jessie)",
+    "section": "Education",
+    "text": "Education\nThe University of British Columbia | Vancouver, BC, Canada\nMaster of Data Science | Aug 2024 - June 2025\nCornell University | Ithaca, NY, The United States\nMaster of Accounting and Management | Aug 2018 - June 2019\nIndiana University | Bloomington, IN, The United States\nMaster of Accounting and Business Analytics | Aug 2014 - May 2018"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Jiaxin Zhang (Jessie)",
+    "section": "Experience",
+    "text": "Experience\nTencent Holdings | Senior Research Associate | Oct 2019 - July 2024"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "To be updated"
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Welcome to my website",
+    "section": "",
+    "text": "Hello! I’m Jessie Zhang, a passionate business analyst with a focus on turning data into actionable insights.\nFeel free to learn more about me or view my past projects."
+  },
+  {
+    "objectID": "index.html#i-am-rooted-but-i-flow.-virginia-woolf",
+    "href": "index.html#i-am-rooted-but-i-flow.-virginia-woolf",
+    "title": "Welcome to My Website!",
+    "section": "",
+    "text": "Hi there! I’m Jessie Zhang, a passionate business analyst with a focus on turning data into actionable insights.\nFeel free to learn more about me or view my past projects."
+  },
+  {
+    "objectID": "index.html#i-am-rooted-but-i-flow.",
+    "href": "index.html#i-am-rooted-but-i-flow.",
+    "title": "Welcome to my website!",
+    "section": "",
+    "text": "Hi there! I’m Jessie Zhang, a passionate business analyst with a focus on turning data into actionable insights.\nFeel free to learn more about me or view my past projects."
   }
 ]

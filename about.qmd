@@ -1,5 +1,31 @@
 ---
-title: "About"
+title: "Jiaxin Zhang (Jessie)"
+about: 
+    template: jolla
+    image: self_photo.jpg
+    links: 
+      - icon: linkedin
+        text: Linkedin
+        href: www.linkedin.com/in/jiaxinjessiezhang
+      - icon: github
+        text: Github
+        href: https://github.com/jessiezhang24
 ---
 
-About this site
+Hello everyone! My name is Jiaxin Zhang (Jessie), and I’m currently pursuing a Master of Data Science at the University of British Columbia. With both a strong foundation and hands-on experience in business analytics area, I’ve developed a deep passion for using data to drive impactful decisions. Throughout my career, I’ve worked extensively with tools such as Python, R, and SQL to transform raw data into actionable insights, helping businesses optimize their processes and develop data-driven strategies.
+
+My enthusiasm for technology extends far beyond analytics—I’m fascinated by how emerging technologies can solve complex problems, and I’m always eager to learn and explore new advancements in the field. Whether through data analysis, machine learning, or innovative tech solutions, I’m excited to continue applying my skills to make a meaningful impact in the world of tech.
+
+## Education
+**The University of British Columbia** | Vancouver, BC, Canada  
+Master of Data Science | Aug 2024 - June 2025
+
+**Cornell University** | Ithaca, NY, The United States  
+Master of Accounting and Management | Aug 2018 - June 2019
+
+**Indiana University** | Bloomington, IN, The United States  
+Master of Accounting and Business Analytics | Aug 2014 - May 2018
+
+## Experience
+
+**Tencent Holdings** | Senior Research Associate | Oct 2019 - July 2024

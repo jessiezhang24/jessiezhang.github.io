@@ -1,7 +1,20 @@
 ---
-title: "Jessie_Zhang"
+title: "Welcome to My Website"
+toc: false
+about: 
+    template: marquee
+    image: homepic.jpg
+
 ---
+<div style="text-align: center;"> 
+### *<span style="color: blue;">I am rooted, but I flow.*</span> 
+</div>
+<div style="text-align: center;"> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *<span style="color: blue;">-- Virginia Woolf*<br><br></span>
+</div>  
+  
+Hi there! I'm Jessie Zhang, a passionate business analyst with a focus on turning data into actionable insights. On this site, you’ll find a collection of my projects, insights, and experiences in the world of analytics. 
 
-Welcome to my website!
+You can [explore my work](projects.qmd), [learn more about my journey](about.qmd), and [connect](www.linkedin.com/in/jiaxinjessiezhang) if you’re as excited about data as I am. Together, we can harness the power of data to unlock new possibilities and drive success!   
 
-Hello Everyone! My name is Jessie Zhang, a current MDS student at University of Brish Columbia.
+Also, feel free to [contact](zhangj24@student.ubc.ca) me if you have any questions or are interested in discussing potential projects 

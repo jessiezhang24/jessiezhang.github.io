@@ -2,14 +2,17 @@ project:
   type: website
 
 website:
-  title: "Jiaxin (Jessie) Zhang"
+  title: "Jessie Zhang"
   navbar:
     search: true
+    logo: logo.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - talks.qmd
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
 
 format:
   html:
