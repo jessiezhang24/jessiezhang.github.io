@@ -6,7 +6,7 @@ about:
     links: 
       - icon: linkedin
         text: Linkedin
-        href: www.linkedin.com/in/jiaxinjessiezhang
+        href: https://www.linkedin.com/in/jiaxinjessiezhang/
       - icon: github
         text: Github
         href: https://github.com/jessiezhang24
